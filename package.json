@@ -1,0 +1,17 @@
+{
+  "name": "js-image-classifier",
+  "version": "1.0.0",
+  "description": "js image classification with tensorflow js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/mobilenet": "^2.0.4",
+    "@tensorflow/tfjs-node": "1.2.8",
+    "jpeg-js": "^0.3.6",
+    "request": "^2.88.0"
+  }
+}
